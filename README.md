@@ -1,5 +1,6 @@
 # QR-code-encoder
 a python script to encode text data into QR code 
+# WINDOWS INSTALLATION FILE LINK : https://drive.google.com/file/d/14bxQ1A3ZoOauJ8LHBSgt_4sFU5h6o52p/view?usp=sharing
 
 - first run the program 
 ![image](https://user-images.githubusercontent.com/67222042/92997099-35e93c80-f52e-11ea-8232-1a758f2226fc.png)
